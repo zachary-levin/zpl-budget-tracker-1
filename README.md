@@ -15,7 +15,6 @@ WHEN the user reestablishes an internet connection
 THEN the deposits or expenses added while they were offline are added to their transaction history and their totals are updated
 ## Description
 
-  Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
   
   - What was my motivation? I wanted to test my skills regarding Progressive Web Applications (PWAs) to take an existing budget tracker application and add offline access and functionality. 
   - Why did I build this project? I wanted to add offline functionality to an existing application and turn it into a PWA.
@@ -24,9 +23,9 @@ THEN the deposits or expenses added while they were offline are added to their t
   - What makes my project stand out? My project has a very clean codebase and is easy to read.
   
   
-  ## Table of Contents (Optional)
+  ## Table of Contents
   
-  If your README is long, add a table of contents to make it easy for users to find what they need.
+
   
   - [Description](#description)
   - [Credits](#credits)
@@ -43,8 +42,7 @@ THEN the deposits or expenses added while they were offline are added to their t
   
   To add a screenshot, create an assets/images folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-  md
-  ![alt text](assets/images/screenshot.png)
+  [Application Preview](application-preview.png)
   
   ## Credits
 
@@ -60,17 +58,6 @@ THEN the deposits or expenses added while they were offline are added to their t
 
   ---
 
-  ## Features
-  
-  If your project has a lot of features, list them here.
-
-  ## How to Contribute
-
-  If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-
-  ## Tests
-
-  Go the extra mile and write tests for your application. Then provide examples on how to run them here.
 
   ## Questions?
   If you have any questions, check out my [GitHub profile](https://github.com/zachary-levin) at or email me at [zlevin706@gmail.com](mailto:zlevin706@gmail.com)
