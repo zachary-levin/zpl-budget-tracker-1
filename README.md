@@ -13,3 +13,65 @@ WHEN the user inputs an expense or deposit
 THEN they will receive a notification that they have added an expense or deposit
 WHEN the user reestablishes an internet connection
 THEN the deposits or expenses added while they were offline are added to their transaction history and their totals are updated
+## Description
+
+  Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+  
+  - What was my motivation? I wanted to test my skills regarding Progressive Web Applications (PWAs) to take an existing budget tracker application and add offline access and functionality. 
+  - Why did I build this project? I wanted to add offline functionality to an existing application and turn it into a PWA.
+  - What problem does it solve? It solves the issue of a user wanting to utilize the application while on poor or no internet connection.
+  - What did I learn? I learned how to implement offline access into an already existing application to transform something into a PWA.
+  - What makes my project stand out? My project has a very clean codebase and is easy to read.
+  
+  
+  ## Table of Contents (Optional)
+  
+  If your README is long, add a table of contents to make it easy for users to find what they need.
+  
+  - [Description](#description)
+  - [Credits](#credits)
+  - [License](#license)
+  - [Features](#features)
+
+  ## Installation
+
+  What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+
+  ## Usage
+
+  Provide instructions and examples for use. Include screenshots as needed.
+  
+  To add a screenshot, create an assets/images folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+
+  md
+  ![alt text](assets/images/screenshot.png)
+  
+  ## Credits
+
+  List your collaborators, if any, with links to their GitHub profiles.
+
+  If you used any third-party assets that require attention, list the creators with links to their primary web presence in this section.
+
+  If you followed tutorials, include links to those here as well.
+
+  ## License
+
+  No license.
+
+  ---
+
+  ## Features
+  
+  If your project has a lot of features, list them here.
+
+  ## How to Contribute
+
+  If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
+
+  ## Tests
+
+  Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+
+  ## Questions?
+  If you have any questions, check out my [GitHub profile](https://github.com/zachary-levin) at or email me at [zlevin706@gmail.com](mailto:zlevin706@gmail.com)
+
